@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-mark2dash-dev-9eff7-authRole",
+      "UnauthRoleArn": "arn:aws:iam::260667241894:role/amplify-mark2dash-dev-9eff7-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::260667241894:role/amplify-mark2dash-dev-9eff7-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-mark2dash-dev-9eff7-deployment",
+      "UnauthRoleName": "amplify-mark2dash-dev-9eff7-unauthRole",
+      "StackName": "amplify-mark2dash-dev-9eff7",
+      "StackId": "arn:aws:cloudformation:us-east-1:260667241894:stack/amplify-mark2dash-dev-9eff7/31756d30-f994-11ef-84f8-0e3d84fe1b0f",
+      "AmplifyAppId": "d14hfsi8pgzcih"
+    },
+    "categories": {
+      "auth": {
+        "mark2dash0e6f3fdf": {}
+      }
+    }
+  }
+}
